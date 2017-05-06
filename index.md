@@ -16,11 +16,13 @@ My primary contact is **fcbarbi AT gmail.com**
 
 2. [IP2AS](https://github.com/fcbarbi/ip2as) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it accordign to their orgigin network, as indicated by their ASN (Autonomous System Number).
 
-3. [Tech Tutorials](http://tutor.fcbarbi.com) on Agile, UML, SQL, NoSQL, Scala, Spark, Hadoop, R, Python, C++ and Self-education.
+3. [Statistics with R](http://statr.org) offers a practical approah to teaching Statistics and basic Economerics using R, a free and amazing tool with an expanding user base. This is the fundamentals that Data Scientist candidates should know. 
 
-4. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
+4. [Tech Tutorials](http://tutor.fcbarbi.com) on Agile, UML, SQL, NoSQL, Scala, Spark, Hadoop, R, Python, C++ and Self-education.
 
-5. On-line courses on Project Management ([GestaoDeProjeto.info](http://gestaodeprojeto.info)), Risk Management ([GestaoDeRisco.info]](http://gestaoderisco.info)) and Mathematics for Finance ([MatematicaFinanceira.info](http://matematicafinanceira.info)), all in Portuguese. 
+5. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
+
+6. On-line training on Project Management ([GestaoDeProjeto.info](http://gestaodeprojeto.info)), Risk Management ([GestaoDeRisco.info](http://gestaoderisco.info)), Derivatives ([derivativos.info](http://derivativos.info)) and Mathematics for Finance ([MatematicaFinanceira.info](http://matematicafinanceira.info)), all in Portuguese. 
 
 ### Working Papers & Research Material 
 
