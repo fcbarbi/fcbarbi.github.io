@@ -1,7 +1,7 @@
 
 ## Fernando C. Barbi
 
-I am a Senior Economist and Data Scientist at [QGRL](http://qgrl.ch) in Switzerland.
+I am an Macroeconomist and Data Scientist at [QGRL](http://qgrl.ch) in Switzerland.
 
 My Doctorate in Economics is from the São Paulo School of Economics ([FGV](http://economics-sp.fgv.br/)). 
 My research interests are Monetary Policy, Asset Pricing and Financial Risk Management. 
