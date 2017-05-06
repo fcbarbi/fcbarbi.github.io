@@ -16,18 +16,23 @@ My primary contact is **fcbarbi AT gmail.com**
 
 2. [IP2AS](https://github.com/fcbarbi/ip2as) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it accordign to their orgigin network, as indicated by their ASN (Autonomous System Number).
 
-3. [Statistics with R](http://statr.org) offers a practical approah to teaching Statistics and basic Economerics using R, a free and amazing tool with an expanding user base. This is the fundamentals that Data Scientist candidates should know. 
+3. [Statistics with R](http://statr.org) offers a practical approach to teaching Statistics and basic Economerics using R, a free and amazing tool with an expanding user base. These are fundamental concepts that Data Scientist candidates must grasp before diving into Machine Learning and Econometric methods. 
 
-4. [Tech Tutorials](http://tutor.fcbarbi.com) on Agile, UML, SQL, NoSQL, Scala, Spark, Hadoop, R, Python, C++ and Self-education.
+4. [Tech Tutorials](http://tutor.fcbarbi.com) Some practical field notes on Agile development, UML, SQL, NoSQL, Scala, Spark, Hadoop, R, Python, C++ and Self-education.
 
 5. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
 
 6. On-line training on Project Management ([GestaoDeProjeto.info](http://gestaodeprojeto.info)), Risk Management ([GestaoDeRisco.info](http://gestaoderisco.info)), Derivatives ([derivativos.info](http://derivativos.info)) and Mathematics for Finance ([MatematicaFinanceira.info](http://matematicafinanceira.info)), all in Portuguese. 
 
-### Working Papers & Research Material 
+### Working Papers & Research Reports
 
-1. "Automated News Reading" (under revision)
+1. "Automated News Reading" (2017, under revision)
 
-2. "Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" ([pdf](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
+2. "Notes on DSGE Model Design" (2017, under revision) 
 
-3. "Bayesian Forecasting of Interest Rates: Do Priors Matter?" ([pdf](https://github.com/fcbarbi/research/blob/master/Bayesian_forecasting_interest_rates_do_priors_matter.pdf))
+3."Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" (2016 [pdf](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
+
+4. "Bayesian Forecasting of Interest Rates: Do Priors Matter?" (2014 [pdf](https://github.com/fcbarbi/research/blob/master/Bayesian_forecasting_interest_rates_do_priors_matter.pdf))
+
+
+ 
