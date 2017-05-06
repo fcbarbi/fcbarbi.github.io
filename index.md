@@ -10,6 +10,8 @@ I am on [GitHub](https://github.com/fcbarbi), [LinkedIn](https://www.linkedin.co
 
 My primary contact is **fcbarbi AT gmail.com**
 
+---
+
 ### Projects 
 
 1. [ARDL](https://github.com/fcbarbi/ardl) is a R package to estimate Auto-Regressive Distributed Lag models.
@@ -30,7 +32,7 @@ My primary contact is **fcbarbi AT gmail.com**
 
 2. "Notes on DSGE Model Design" (2017, under revision) 
 
-3."Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" (2016 [pdf](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
+3. "Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" (2016 [pdf](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
 
 4. "Bayesian Forecasting of Interest Rates: Do Priors Matter?" (2014 [pdf](https://github.com/fcbarbi/research/blob/master/Bayesian_forecasting_interest_rates_do_priors_matter.pdf))
 
