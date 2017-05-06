@@ -24,7 +24,7 @@ My primary contact is **fcbarbi AT gmail.com**
 
 5. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
 
-6. On-line training on Project Management ([GestaoDeProjeto.info](http://gestaodeprojeto.info)), Risk Management ([GestaoDeRisco.info](http://gestaoderisco.info)), Derivatives ([derivativos.info](http://derivativos.info)) and Mathematics for Finance ([MatematicaFinanceira.info](http://matematicafinanceira.info)), all in Portuguese. 
+6. On-line training on Project Management ([GestaoDeProjeto.info](http://www.gestaodeprojeto.info)), Risk Management ([GestaoDeRisco.info](http://www.gestaoderisco.info)), Derivatives ([derivativos.info](http://www.derivativos.info)) and Mathematics for Finance ([MatematicaFinanceira.info](http://www.matematicafinanceira.info)), all in Portuguese. 
 
 ### Working Papers & Research Reports
 
