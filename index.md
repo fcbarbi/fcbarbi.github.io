@@ -1,7 +1,7 @@
 
 ## Fernando C. Barbi
 
-I am an Macroeconomist and Data Scientist at [QGRL](http://qgrl.ch) in Switzerland.
+I am a Macroeconomist and Data Scientist at [QGRL](http://qgrl.ch) in Switzerland.
 
 My Doctorate in Economics is from the São Paulo School of Economics ([FGV](http://economics-sp.fgv.br/)). 
 My research interests are Monetary Policy, Asset Pricing and Financial Risk Management. 
@@ -16,7 +16,9 @@ My primary contact is **fcbarbi AT gmail.com**
 
 2. [IP2AS](https://github.com/fcbarbi/ip2as) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it accordign to their orgigin network, as indicated by their ASN (Autonomous System Number).
 
-3. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
+3. [Tutorials](http://tutor.fcbarbi.com) on Agile, UML, SQL, NoSQL, Scala, Spark, Hadoop, R, Python, C++ and Self-education.
+
+4. [analyx.ch](http://analyx.ch) is a Machine Learning Study Group.
 
 ### Working Papers & Research Material 
 
