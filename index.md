@@ -14,19 +14,19 @@ My primary contact is **fcbarbi AT gmail.com**
 
 ### Projects 
 
-1. [ARDL](https://github.com/fcbarbi/ardl) is a R package to estimate Auto-Regressive Distributed Lag models.
+1. [ARDL](https://github.com/fcbarbi/ardl) is a R package to estimate Auto-Regressive Distributed Lag models. I am using this in Macroeconomic models.
 
-2. [IP2AS](https://github.com/fcbarbi/ip2as) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it according to their origin network, as indicated by their ASN (Autonomous System Number).
+2. [IP2AS](https://github.com/fcbarbi/ip2as) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it according to their origin network, as indicated by their ASN (Autonomous System Number). This is networking engineering stuff from a previous life.
 
-3. [Statistics with R](http://www.statr.org) proposes a practical approach to learning Statistics and basic Econometrics using R, a free and amazing tool with an fast-growing user base. Here you find the fundamental concepts that Data Scientist candidates must grasp before diving into Machine Learning (ML) and Econometric methods. 
+3. [Statistics with R](http://www.statr.org) proposes a practical approach to learning Statistics and basic Econometrics using R, a free and amazing tool with an fast-growing user base. Here you find the fundamental concepts that future Data Scientists must grasp before diving into Machine Learning (ML) and Econometric methods. 
 
-4. [Analyx](http://analyx.ch) is a Machine Learning Research Group. It's a meeting point to learn/teach and prepare to enter ML competitions (such as [Kaggle](https://www.kaggle.com/competitions)'s and [Google](https://cloud.google.com/startups/ml-competition/)'s). 
+4. [Analyx](http://analyx.ch) is a Machine Learning research group. It's a meeting point to learn/teach and prepare to enter ML competitions (such as [Kaggle](https://www.kaggle.com/competitions)'s and [Google](https://cloud.google.com/startups/ml-competition/)'s). 
 
-### Working Papers & Research Reports
+### Working Papers 
 
-1. "Automated News Reading" (2017, under revision)
+1. "Automated News Reading in R using the Media package" (2017, under submission)
 
-2. "Notes on DSGE Model Design" (2017, under revision) 
+2. "Notes on DSGE Model Design and Estimation" (2017, under completion) 
 
 3. "Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" (2016 [pdf](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
 
