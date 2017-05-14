@@ -17,18 +17,16 @@ Projects
 
 1. [ARDL](https://github.com/fcbarbi/ardl/) is a R package to estimate Auto-Regressive Distributed Lag models. I am using this in Macroeconomic models.
 
-2. [Ip2as](https://github.com/fcbarbi/ip2as/) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it according to their origin network, as indicated by their ASN (Autonomous System Number). This is networking engineering stuff from a previous life.
+2. "Automated news collection with the [newsminer](https://github.com/fcbarbi/newsminer/) R package" (2017, under submission)
 
-3. [Analyx](http://analyx.ch/) is a Quantitative Methods research group. It's a meeting point to learn/teach and prepare to enter Machine Learning competitions. 
+3. [Ip2as](https://github.com/fcbarbi/ip2as/) is a Pyhon 2.7 package to analyze ipv4 traffic and classify it according to their origin network, as indicated by their ASN (Autonomous System Number). This is networking engineering stuff from a previous life.
 
 Working Papers 
 --------------
 
-1. "Automated News Mining with the [newsminer](https://github.com/fcbarbi/newsminer/) R package" (2017, under submission)
+1. "Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" ([2016](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
 
-2. "Does FDI matter for Sustainable Growth in Sub Saharan Africa ? Evidence from a Heterogeneous Panel" ([2016](https://github.com/fcbarbi/research/blob/master/FDI_Sustainable_Growth_SSA_2016.pdf))
-
-3. "Bayesian Forecasting of Interest Rates: Do Priors Matter?" ([2014](https://github.com/fcbarbi/research/blob/master/Bayesian_forecasting_interest_rates_do_priors_matter.pdf))
+2. "Bayesian Forecasting of Interest Rates: Do Priors Matter?" ([2014](https://github.com/fcbarbi/research/blob/master/Bayesian_forecasting_interest_rates_do_priors_matter.pdf))
 
 Teaching Notes
 --------------
