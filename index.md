@@ -1,9 +1,9 @@
 
 ## Fernando C. Barbi
 
-I am a Macroeconomist at [QG Research Lab](https://quantumglobalgroup.com/) and a Data Scientist for the [Analyx Research Group](http://www.analyx.ch) in Switzerland.
+I am a Macroeconomist at [QG Research Lab](https://quantumglobalgroup.com/) and a Data Scientist for the [AnalyX Research Team](http://www.analyx.ch) in Zug, Switzerland.
 
-My current research area Blockchain economics and is Macro-Finance. I use both Econometric and Machine Learning models to predict key economic and finance indicators (GDP, inflation and prices - or SFD, Stochastic Discount Factors, to be more precise).  
+My current research areas are Blockchain economics and Macro-Finance. I use Econometric and Machine Learning models to predict key economic and finance indicators (GDP, inflation and prices - or SDF, Stochastic Discount Factors, to be more precise).  
 My Doctorate in Economics is from the São Paulo School of Economics ([FGV](http://economics-sp.fgv.br/)). 
 My research interests are Monetary Policy, Asset Pricing and Financial Risk Management. 
 
