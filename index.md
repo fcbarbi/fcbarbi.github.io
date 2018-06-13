@@ -9,7 +9,7 @@ My research interests are Monetary Policy, Asset Pricing and Financial Risk Mana
 
 I am here on [GitHub](https://github.com/fcbarbi), on [LinkedIn](https://www.linkedin.com/in/fcbarbi/) and on [Ideas](https://ideas.repec.org/f/pba724.html).
 
-June 2018 [CV](https://github.com/fcbarbi/research/blob/master/fernando_barbi_201806.pdf). My primary contact is **fcbarbi AT gmail DOT com**
+June 2018 [CV](https://github.com/fcbarbi/research/blob/master/fernando_barbi_CV_201806.pdf). My primary contact is **fcbarbi AT gmail DOT com**
 
 ---
 
