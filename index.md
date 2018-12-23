@@ -1,7 +1,12 @@
 
 ## Fernando C. Barbi
 
-I am a researcher at the [CEF-SBS](https://www.sbs.edu/), the Center for Entrepreneurial Finance at the SBS Swiss Business School in Zurich, and a Data Scientist for [Analyx](http://www.analyx.ch) in Zug, Switzerland.
+I am a researcher at the [CEF-SBS](https://www.sbs.edu/), the Center for Entrepreneurial Finance at the SBS Swiss Business School in Zurich, and a product manager developing tools for **Private Equity** investors. 
+
+Previously, I was a **data scientist**, someone who breakes code hidden in lare amounts of data. 
+I decode data looking for patterns to spot causality and trends. 
+I enjoy telling the story behind the numbers, to make them tell us their secrets, 
+either by puting them in context or by exposing them, shining light on the truth.
 
 My current research areas are **Blockchain** economics and **Macro-Finance**. I use Econometric and Machine Learning models to predict key economic and finance indicators (GDP, inflation, and prices or "Stochastic Discount Factors").  
 
