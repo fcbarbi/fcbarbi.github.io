@@ -3,9 +3,9 @@
 
 I am a researcher at the [CEF-SBS](https://www.sbs.edu/community/center-for-entrepreneurial-finance/), the **Center for Entrepreneurial Finance** at the **SBS Swiss Business School** in Zurich, and a product manager developing tools for **Private Equity** investors. 
 
-Previously, I was a **data scientist**, someone who breakes code hidden in large amounts of data. I decode data looking for patterns to spot **causality** and **trends**. I enjoy telling the **story behind the numbers**, to make them tell us their secrets, either by putting them in context or by exposing their lies, shining light on the truth.
+As a **data scientist** I break codes hidden in large amounts of data. I decode data looking for patterns to spot **causality** and **trends**. I enjoy telling the **story behind the numbers**, to make them tell us their secrets, either by putting them in context or by exposing their lies, shining light on the truth.
 
-I use Econometrics and Machine Learning tools to research **Blockchain** economics and **Macro-Finance** models. 
+I use Econometrics and Machine Learning tools to research on **Blockchain** Kryptoeconomics and **Macro-Finance** models. 
 
 I got a Doctorate from the São Paulo School of Economics ([FGV](http://economics-sp.fgv.br/)) researching Monetary Policy, Asset Pricing and Financial Risk Management. 
 
