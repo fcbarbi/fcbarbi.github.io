@@ -1,9 +1,10 @@
 
 ## Fernando C. Barbi
 
-
-| ![Fernando Barbi](fernando_barbi_github.jpg) | I am currently an entrepreneur in Switzerland where I teach **Project+Product Management** and **Scrum** at [PMWizards.com](https://www.pmwizards.com). I also coach teams in applying **agile methodologies** (Lean Management, eXtreme Programming and Test-Driven Development) and I advise companies on adopting **business agility**. |
+|||
 |:-----------:|:----------------|
+| ![Fernando Barbi](fernando_barbi_github.jpg) | I am currently an entrepreneur in Switzerland where I teach **Project+Product Management** and **Scrum** at [PMWizards.com](https://www.pmwizards.com). I also coach teams in applying **agile methodologies** (Lean Management, eXtreme Programming and Test-Driven Development) and I advise companies on adopting **business agility**. |
+
 
 My professional career started as a C/C++ developer, then Project Manager, Scrum Master, Product Owner and more recently Product Manager. 
 Before coming to Swizterland I lived in Brazil where I successfully started and run two companies, a software house and an internet service provider. 
