@@ -3,7 +3,7 @@
 
 I am currently an entrepreneur in Switzerland where I teach **Project+Product Management** and **Scrum** at [PMWizards.com](https://www.pmwizards.com). I coach teams in applying **agile methodologies** (Lean Management, eXtreme Programming and Test-Driven Development) and I advise companies on adopting **business agility**. 
 
-As a developer at heart I enjoy coding in Python [Django](https://www.djangoproject.com/) and Javascript [Svelte](https://svelte.dev/). I love **R** for research, **Matlab** for Economic's DSGE modeling and **[TensorFlow](https://tensorflow.org)** for developing Machine Learning models.
+As a developer at heart I enjoy coding in Python [Django](https://www.djangoproject.com/) and Javascript [Svelte](https://svelte.dev/). I love [R](https://cran.r-project.org/) for research, [MatLab](https://www.mathworks.com/) for Economic's DSGE modeling and [TensorFlow](https://tensorflow.org) for developing Machine Learning models.
 
 I use Machine Learning tools to research on [KryptoEconomics.org](https://www.kryptoeconomics.org/) and Bayesian Econometrics to tackle **Macro-Finance** models. 
 
