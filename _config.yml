@@ -1,4 +1,4 @@
 
 theme: jekyll-theme-slate
-#theme: 'github-pages'
+theme: 'github-pages'
 markdown: kramdown
